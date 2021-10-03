@@ -2,6 +2,7 @@ import React from "react";
 import NavComponent from "./NavComponent";
 import Jumbotron from "./ JumbotronComponent"
 import About from "./AboutComponent";
+import Services from "./ServicesComponent";
 
 const Main = () => {
   return (
@@ -9,6 +10,7 @@ const Main = () => {
         <NavComponent />
         <Jumbotron />
         <About />
+        <Services />
     </>
 )
 };
