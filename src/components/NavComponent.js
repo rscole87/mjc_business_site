@@ -32,7 +32,8 @@ const NavComponent = () => {
         <div className="container">
           <NavbarBrand className="mr-auto" href={`/#header-section`}>
             {/* <img className="nav-logo" src="" height="50" alt="Consult Business" /> */}
-            Consult Business
+            <strong>Consult Business</strong>
+            
           </NavbarBrand>
           <NavbarToggler onClick={toggleNav} />
           <Collapse isOpen={isNavOpen} className="justify-content-end" navbar>
