@@ -32,7 +32,7 @@ const NavComponent = () => {
         <div className="container">
           <NavbarBrand className="mr-auto" href={`/#header-section`}>
             {/* <img className="nav-logo" src="" height="50" alt="Consult Business" /> */}
-            <strong>Consult Business</strong>
+            <strong>MJC Consulting, Inc.</strong>
             
           </NavbarBrand>
           <NavbarToggler onClick={toggleNav} />
