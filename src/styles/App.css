@@ -3,8 +3,24 @@
   height: 80vh;
 }
 
+#about-section {
+  min-height: 40vh;
+  padding: 5vh 0;
+}
+
+#call-to-action-section {
+  min-height: 40vh;
+  padding: 5vh 0;
+}
+
+#services-section {
+  min-height: 40vh;
+  padding: 5vh 0;
+}
+
 footer {
   background-color: #3f3f3f;
+  padding: 5vh 0;
 }
 
 footer #mt-logo {
